@@ -14,7 +14,7 @@
 	"AlphaBot2.SensorCalibrated|block": "循線感應校正",
 	"AlphaBot2.readLine|block": "黑線位置",
 	"AlphaBot2.AnalogRead|block": "循線數值",
-	"AlphaBot2.readCalibrated|block": "循線數值-校正後",
+	"AlphaBot2.readCalibrated|block": "校正後循線數值",
 	"AlphaBot2.ReadSensorMax|block": "循線最大值",
 	"AlphaBot2.ReadSensorMin|block": "循線最小值"
 }
